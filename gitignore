@@ -1,0 +1,10 @@
+# Fichiers temporaires créés automatiquement par Jupyter
+.ipynb_checkpoints/
+
+# Fichiers temporaires Python
+__pycache__/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
